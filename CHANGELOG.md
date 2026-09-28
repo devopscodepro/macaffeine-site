@@ -9,5 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- MIT license
-- Changelog
+- Landing page for Macaffeine with a menu bar demo drawn in CSS, features, automation, settings screenshots and FAQ.
+- Light and dark appearance following the system.
+- SEO basics: description, canonical URL, social preview, structured data, sitemap and robots.txt.
+- Caching and security headers, 404 page.
+- Lighthouse check and Cloudflare Pages deployment on every push.
+- MIT license.
